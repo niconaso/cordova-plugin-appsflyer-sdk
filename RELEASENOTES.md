@@ -1,7 +1,7 @@
 # Release Notes
 ### 4.2.10 (Nov 30, 2016)
-* updated iOS Appsflyer SDK vertsion to 4.5.12
-* updated Android Appsflyer SDK vertsion to 4.6.1
+* updated iOS Appsflyer SDK version to 4.5.12
+* updated Android Appsflyer SDK version to 4.6.1
 
 # Release Notes
 ### 4.2.9 (Nov 25, 2016)
